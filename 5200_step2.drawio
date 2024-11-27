@@ -1,0 +1,371 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="KLtd4MFQh9ZuT6rouaQ0">
+    <mxGraphModel dx="2448" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6oquI3iziqroKtysEFZ_-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=none;" parent="1" source="6oquI3iziqroKtysEFZ_-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="487" as="targetPoint" />
+            <mxPoint x="761" y="305" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-29" target="6oquI3iziqroKtysEFZ_-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-29" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Diagnosis&lt;/b&gt;: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; acute bacterial rhinosinusitis" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="376.75" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-83" target="6oquI3iziqroKtysEFZ_-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-83" target="6oquI3iziqroKtysEFZ_-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-83" value="Is there suspicion for complications?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="110" width="145" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-84" target="6oquI3iziqroKtysEFZ_-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-84" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="266.75" y="162" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-85" target="6oquI3iziqroKtysEFZ_-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-85" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="162" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-91" value="&lt;div&gt;Consider the need for hospitalization&lt;/div&gt;Order imaging exam and manage accordingly" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="75.44" y="123" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-94" target="6oquI3iziqroKtysEFZ_-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-94" target="6oquI3iziqroKtysEFZ_-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-94" value="Is the patient eligible&lt;div&gt;&amp;nbsp;for watchful waiting?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="286" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-96" target="l2N7j59_v2V8E63CawsU-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-96" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6oquI3iziqroKtysEFZ_-99" target="6oquI3iziqroKtysEFZ_-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-99" value="&lt;div style=&quot;&quot;&gt;Prescribe symptomatics&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(analgesics, antipiretics) and nasal irrigation with 0.9% saline&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Consider intranasal corticosteroids for symptomatic relief&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="649.75" y="101.5" width="151" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-1" target="l2N7j59_v2V8E63CawsU-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-1" target="l2N7j59_v2V8E63CawsU-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-1" value="Getting worse or&lt;div&gt;not improving after 7 days?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="560" width="169.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-2" target="l2N7j59_v2V8E63CawsU-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-2" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-3" target="l2N7j59_v2V8E63CawsU-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-3" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="698.75" y="772" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-6" value="Keep current management until resolution" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="665.25" y="837" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-12" target="l2N7j59_v2V8E63CawsU-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-12" target="l2N7j59_v2V8E63CawsU-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-12" value="Is there severe infection in&lt;div&gt;need of hospitalization?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="183.44" y="220" width="169.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="l2N7j59_v2V8E63CawsU-15" target="l2N7j59_v2V8E63CawsU-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-15" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="154.38" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="l2N7j59_v2V8E63CawsU-16" target="l2N7j59_v2V8E63CawsU-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-16" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="333.13" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="l2N7j59_v2V8E63CawsU-17" target="l2N7j59_v2V8E63CawsU-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="l2N7j59_v2V8E63CawsU-17" target="l2N7j59_v2V8E63CawsU-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="321" y="1291" as="targetPoint" />
+            <mxPoint x="100" y="501" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="l2N7j59_v2V8E63CawsU-17" target="l2N7j59_v2V8E63CawsU-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="1291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="l2N7j59_v2V8E63CawsU-17" target="l2N7j59_v2V8E63CawsU-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-17" value="beta-lactam allergy?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="206.13" y="410" width="127" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-26" target="l2N7j59_v2V8E63CawsU-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-26" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="343.88" y="521" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-27" target="l2N7j59_v2V8E63CawsU-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-27" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="457.5" y="521" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-28" target="l2N7j59_v2V8E63CawsU-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="1461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-28" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="521" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-29" target="l2N7j59_v2V8E63CawsU-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.2222222222222" y="1461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-29" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="163.63" y="521" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-38" target="l2N7j59_v2V8E63CawsU-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-38" value="Consider Levofloxacin 750mg IV 24/24h 5-7days;&lt;div&gt;check for bacterial resistance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="571" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;In hospital IV beta-lactam;&lt;div&gt;check for bacterial resistance&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="133.44" y="571" width="110.37" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-40" target="l2N7j59_v2V8E63CawsU-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-40" value="Consider oral&lt;div&gt;respiratory quinolone or doxicycline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="571" width="103.88" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-41" target="l2N7j59_v2V8E63CawsU-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-41" value="Consider oral&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;amoxacilin +&lt;/span&gt;&lt;div&gt;&lt;div&gt;clavulanate&lt;/div&gt;&lt;div&gt;875mg + 125mg&lt;/div&gt;&lt;div&gt;12/12h 5-7 days&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="433.5" y="571" width="116.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-42" target="l2N7j59_v2V8E63CawsU-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-42" target="l2N7j59_v2V8E63CawsU-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-42" value="Is patient clinically better?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="206.13" y="661" width="137.75" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-39" target="l2N7j59_v2V8E63CawsU-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-48" target="l2N7j59_v2V8E63CawsU-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-48" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="761" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l2N7j59_v2V8E63CawsU-49" target="l2N7j59_v2V8E63CawsU-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-49" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="761" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-53" value="&lt;div&gt;Keep symptomatics&lt;/div&gt;&lt;div&gt;(analgesics, antipiretics) and nasal irrigation with 0.9% saline until&amp;nbsp;&lt;/div&gt;&lt;div&gt;symptom resolution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="812" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l2N7j59_v2V8E63CawsU-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Order imaging exam to assess for complications;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consider changing antibiotic therapy, if possible, based on resistance profile;&lt;/div&gt;&lt;div&gt;Refer for ENT evaluation.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Re-consider differential diagnosis, c&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;onsider fungal causes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;If recurrent, assess for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery, and anatomic abnormalities (eg, deviated nasal septum)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: TimesNewRomanPSMT; font-size: 10pt; background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&#x9;&#x9;&lt;br&gt;&#x9;&lt;br&gt;&#x9;&lt;br&gt;&#x9;&#x9;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="811" width="360" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="180" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-13" vertex="1">
+          <mxGeometry width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-15" value="&lt;b&gt;Suspected complications&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-14" vertex="1">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-13" vertex="1">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-17" value="&lt;div title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;orbital (eg.:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;periorbital/orbital cellulitis or abscess)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-16" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-13" vertex="1">
+          <mxGeometry y="50" width="180" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-19" value="intracranial&amp;nbsp;&lt;div&gt;(eg.: meningitis, abscess)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-18" vertex="1">
+          <mxGeometry width="180" height="31" as="geometry">
+            <mxRectangle width="180" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-13" vertex="1">
+          <mxGeometry y="81" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-21" value="soft tissue&amp;nbsp;&lt;div&gt;(eg.: facial cellulitis, abscess)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-20" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=none;" parent="1" target="6oquI3iziqroKtysEFZ_-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="663" as="targetPoint" />
+            <mxPoint x="761" y="481" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pg--C747iEHJvBxBvvRA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oquI3iziqroKtysEFZ_-95" target="Pg--C747iEHJvBxBvvRA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oquI3iziqroKtysEFZ_-95" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="698.75" y="450" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-53" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="216.75" y="950" width="160.00000000000045" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-53" vertex="1">
+          <mxGeometry width="160.00000000000045" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-55" value="&lt;b&gt;IV beta lactam options:&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-54" vertex="1">
+          <mxGeometry width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-53" vertex="1">
+          <mxGeometry y="20" width="160.00000000000045" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-57" value="Ampicilin/sulbactam 1.5-3g IV 6/6h for 5-7 days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-56" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-53" vertex="1">
+          <mxGeometry y="60" width="160.00000000000045" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-59" value="Ceftriaxone 1-2g IV&lt;div&gt;12/12h for 5-7 days&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-58" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-53" vertex="1">
+          <mxGeometry y="100" width="160.00000000000045" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-61" value="Cefotaxime 2g IV&lt;div&gt;6/6h for 5-7 days&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-60" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-75" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="5.63" y="980" width="198.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-75" vertex="1">
+          <mxGeometry width="198.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-77" value="&lt;b&gt;Some oral antibiotic options if beta-lactam allergy&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-76" vertex="1">
+          <mxGeometry width="199" height="30" as="geometry">
+            <mxRectangle width="199" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-75" vertex="1">
+          <mxGeometry y="30" width="198.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-79" value="Levofloxacin 750mg 24/24h 5-7 days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-78" vertex="1">
+          <mxGeometry width="199" height="20" as="geometry">
+            <mxRectangle width="199" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-75" vertex="1">
+          <mxGeometry y="50" width="198.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-81" value="Moxifloxacin 400mg 24/24h 5-7 days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-80" vertex="1">
+          <mxGeometry width="199" height="20" as="geometry">
+            <mxRectangle width="199" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-75" vertex="1">
+          <mxGeometry y="70" width="198.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-83" value="Doxycycline 100mg 12/12h 7 days" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-82" vertex="1">
+          <mxGeometry width="199" height="20" as="geometry">
+            <mxRectangle width="199" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-88" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="393.88" y="955" width="232.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-88" vertex="1">
+          <mxGeometry width="232.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-90" value="&lt;b&gt;Intranasal corticosteroids option&lt;/b&gt;s" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-89" vertex="1">
+          <mxGeometry width="233" height="20" as="geometry">
+            <mxRectangle width="233" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-88" vertex="1">
+          <mxGeometry y="20" width="232.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-92" value="Budesonide 50mcg/spray&amp;nbsp;&lt;div&gt;1-2 sprays per nostril 12/12h for 2 weeks&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-91" vertex="1">
+          <mxGeometry width="233" height="35" as="geometry">
+            <mxRectangle width="233" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-88" vertex="1">
+          <mxGeometry y="55" width="232.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-94" value="Mometasone furoate 50mcg/spray&amp;nbsp;&lt;div&gt;1-2 sprays per nostril 12/12h for 2 weeks&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-93" vertex="1">
+          <mxGeometry width="233" height="40" as="geometry">
+            <mxRectangle width="233" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lL0XIrcGaY90vHGLS-17-88" vertex="1">
+          <mxGeometry y="95" width="232.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lL0XIrcGaY90vHGLS-17-96" value="Fluticasone furoate 27.5mcg/spray&lt;div&gt;1-2 sprays per nostril 12/12h for 2 weeks&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="lL0XIrcGaY90vHGLS-17-95" vertex="1">
+          <mxGeometry width="233" height="40" as="geometry">
+            <mxRectangle width="233" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pg--C747iEHJvBxBvvRA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pg--C747iEHJvBxBvvRA-1" target="l2N7j59_v2V8E63CawsU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg--C747iEHJvBxBvvRA-1" value="Reassess in 7 days" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664" y="501" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
