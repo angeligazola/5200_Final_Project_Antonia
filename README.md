@@ -10,7 +10,7 @@ This repository contains the work associated with my final project for the **520
 
 During this project, a detailed expert system will be developed using CLIPS.py. The proposed expert system for this project will use clinical guidelines from IDSA and AAO-HNS with data from a clinical case provided by the clinical provider, such as symptoms, presentation duration, and clinical findings and conclusions. The system will assist in distinguishing rhinosinusitis from upper respiratory viral infections, differentiating viral from bacterial rhinosinusitis, and classifying cases as acute, subacute, or chronic. Moreover, it will provide evidence-based management recommendations, considering potential complications and the need for hospitalization or referrals. The aim is for the developed tool to diminish diagnostic variability and antibiotic overprescription, providing standardized assistance, that potentially helps to improve patient outcomes.
 
-The project's report is being written using LaTeX, through OverLeaf, using the AMIA paper template, containing the following structure: background, introduction, materials and methods, design, demonstration, discussion, conclusion, acknowledgements and references.
+The project's report is being written using LaTeX, through OverLeaf, using the AMIA paper template, containing the following structure: background, introduction, materials and methods, design, demonstration, discussion and conclusion, acknowledgements and references.
 
 ### Repository Overview
 
