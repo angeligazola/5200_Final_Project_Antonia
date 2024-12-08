@@ -40,4 +40,4 @@ To view and run the expert system locally, follow these instructions:
 2. Download the files in the **Expert_system_project_ANTONIA** folder from here or clone this repository to your local computer using Git and then download the files.
 3. Open Jupyter notebooks, through Anaconda, and create a new folder.
 4. Add the downloaded files into that new folder.
-5. From there, open the **final_project_Antonia_ANGELIGAZOLA.ipynb** and run it to see the system working.
+5. From there, open the **final_project_Antonia_ANGELIGAZOLA.ipynb** and run it to see the system working. Note: The code was tested in a Jupyter Notebook, in Anaconda, using Python 3.12.4 (packaged by Anaconda, Inc.). 
