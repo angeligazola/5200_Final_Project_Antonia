@@ -25,9 +25,9 @@ This repository includes:
 - **README.md**: overview of the project and repository contents.  
 - **5200_step1.drawio**: the draw.io draft of the Flow Diagram with the first steps used to build the expert system, until diagnosis of Acute Bacterial Rhinosinusitis.
 - **5200_step2.drawio**: the draw.io draft of the Flow Diagram with the following steps used to build the expert system, from diagnosis of Acute Bacterial Rhinosinusitis to providing treatment recommendations.
--**BMIN_5200_Final_Project_Antonia_ANGELIGAZOLA.pdf**: Final Project Report pdf, written with LaTeX, via Overleaf, and rendered into a pdf file.
--**Figure3_output_examples.png**: Figure containing four output examples from the expert system, used in the report.
--**output_examples.pptx**: examples of all combinations of output from the expert system
+- **BMIN_5200_Final_Project_Antonia_ANGELIGAZOLA.pdf**: Final Project Report pdf, written with LaTeX, via Overleaf, and rendered into a pdf file.
+- **Figure3_output_examples.png**: Figure containing four output examples from the expert system, used in the report.
+- **output_examples.pptx**: examples of all combinations of output from the expert system
 - **references.bib**: bib file with the references used to write the LaTeX report.
 - **rhinossinusitis-4.drawio and rhinossinusitis-4.png**: initial flow diagram draft created, serving as the first draft of the decision track expert system.
 
