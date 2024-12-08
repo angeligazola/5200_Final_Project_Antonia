@@ -21,7 +21,7 @@ This repository includes:
 	- **5200_step1.png**: Flow Diagram with the first steps used to build the expert system, until diagnosis of Acute Bacterial Rhinosinusitis, or subacute in need of acute management (added to the notebook for reference);
 	- **5200_step2.png**: Flow Diagram with the following steps used to build the expert system, from diagnosis of Acute Bacterial Rhinosinusitis, or subacute in need of acute management, to providing treatment recommendations (added to the notebook for reference).
 	- **final_project_Antonia_ANGELIGAZOLA.ipynb**: jupyter notebook with the expert system code, written with CLIPS.py.
-	- **clips_util.py, __init__.py and util.cpython-312.pyc**: files to ensure the expert system runs as expected in the clips.py environment created.
+	- **clips_util.py, \__init__\.py and util.cpython-312.pyc**: files to ensure the expert system runs as expected in the clips.py environment created.
 - **README.md**: overview of the project and repository contents.  
 - **5200_step1.drawio**: the draw.io draft of the Flow Diagram with the first steps used to build the expert system, until diagnosis of Acute Bacterial Rhinosinusitis.
 - **5200_step2.drawio**: the draw.io draft of the Flow Diagram with the following steps used to build the expert system, from diagnosis of Acute Bacterial Rhinosinusitis to providing treatment recommendations.
